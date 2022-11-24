@@ -32,6 +32,16 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# M4Sugar file
+*.ac linguist-detectable=true
+*.ac linguist-documentation=false
+*.ac linguist-language=M4Sugar
+*.at linguist-detectable=true
+*.at linguist-documentation=false
+*.at linguist-language=M4Sugar
+*.m4 linguist-detectable=true
+*.m4 linguist-documentation=false
+*.m4 linguist-language=M4Sugar
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +171,12 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Thursday, November 24th at 1:29 pm PST)
+# Line count (including blank lines and compiler line): 183
+
 # End of script
